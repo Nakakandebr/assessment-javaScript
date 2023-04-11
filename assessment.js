@@ -70,7 +70,30 @@ console.log("2001 is not a leap year")
 
 // 4. Given a range of numbers from 0 to 100, console”Fizz” if the numbers are divisible by 3,
 // “Buzz” if the numbers are divisible by 5, and “FizzBuzz” if divisible by both 3 and 5.
-     
+
+    for(i in )
+
+     if(3%2===0 && 5%2===0){
+     console.log("FizzBuzz")
+
+     }
+     else if(3%2===0 ){
+
+
+console.log("Fizz")
+
+     }
+     else if(5%2===0){
+
+        console.log("Buzz")
+
+     }
+     else{
+
+console.log(num)
+
+     }
+
 
 
 
@@ -97,7 +120,7 @@ for (i=0; i<nums.length; i++)
 }
 
 let nums = ["10","24","45","56","67"]
-console.log("Turn to number:",nums*1 );
+console.log("turn to number:",nums*1 );
 
 
 
