@@ -121,6 +121,7 @@ for (i=0; i<nums.length; i++)
 
 let nums = ["10","24","45","56","67"]
 console.log("turn to number:",nums*1 );
+str(nums)
 
 
 
